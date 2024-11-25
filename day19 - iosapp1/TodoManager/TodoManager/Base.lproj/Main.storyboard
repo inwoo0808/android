@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ge9-Pg-6Dm">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--할 일 관리-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="TodoManager" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="9bi-Bd-geY">
+                                <rect key="frame" x="0.0" y="88" width="390" height="722"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <prototypes>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="todoCell" id="WDe-qL-qum" customClass="TodoCell" customModule="TodoManager" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="44.666666030883789" width="390" height="43.666667938232422"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="WDe-qL-qum" id="pej-le-H2D">
+                                            <rect key="frame" x="0.0" y="0.0" width="390" height="43.666667938232422"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="iRe-Ai-jxN">
+                                                    <rect key="frame" x="20" y="2" width="40" height="40"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                </imageView>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="할 일" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3M4-Xo-wBu">
+                                                    <rect key="frame" x="68" y="11" width="302" height="21"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                        </tableViewCellContentView>
+                                        <connections>
+                                            <outlet property="imageViewTodo" destination="iRe-Ai-jxN" id="PNx-fE-wOJ"/>
+                                            <outlet property="labelTodo" destination="3M4-Xo-wBu" id="3KY-fy-4Vn"/>
+                                            <segue destination="X4i-NH-2NO" kind="show" id="wMk-od-gP1"/>
+                                        </connections>
+                                    </tableViewCell>
+                                </prototypes>
+                            </tableView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="9bi-Bd-geY" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="1K7-fC-SFz"/>
+                            <constraint firstItem="9bi-Bd-geY" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="Atc-XJ-UUv"/>
+                            <constraint firstItem="9bi-Bd-geY" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="gZD-yb-ab8"/>
+                            <constraint firstItem="9bi-Bd-geY" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="rg0-tu-JKR"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" title="할 일 관리" id="rzF-o9-z4p">
+                        <barButtonItem key="rightBarButtonItem" title="Item" image="plus" catalog="system" id="zze-Yj-iiw">
+                            <connections>
+                                <segue destination="NlO-dW-deP" kind="show" id="HEb-ET-flC"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="tableView" destination="9bi-Bd-geY" id="4B1-Im-myg"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1030.7692307692307" y="93.838862559241704"/>
+        </scene>
+        <!--할 일 등록-->
+        <scene sceneID="C8B-q4-Hxk">
+            <objects>
+                <viewController id="NlO-dW-deP" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="ouA-iU-b2v">
+                        <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="할 일" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="LcE-Dn-nUf">
+                                <rect key="frame" x="20" y="120" width="350" height="34"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleAspectFill" verticalHuggingPriority="249" contentHorizontalAlignment="fill" contentVerticalAlignment="fill" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QVP-XN-cLw">
+                                <rect key="frame" x="20" y="207" width="350" height="255"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="photo.artframe" catalog="system"/>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="nSJ-fi-WZP"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="QVP-XN-cLw" firstAttribute="top" secondItem="LcE-Dn-nUf" secondAttribute="bottom" constant="53" id="2ov-X4-qc3"/>
+                            <constraint firstItem="nSJ-fi-WZP" firstAttribute="trailing" secondItem="LcE-Dn-nUf" secondAttribute="trailing" constant="20" id="3UC-8U-OhO"/>
+                            <constraint firstItem="LcE-Dn-nUf" firstAttribute="top" secondItem="nSJ-fi-WZP" secondAttribute="top" constant="32" id="M36-Nn-EJx"/>
+                            <constraint firstItem="nSJ-fi-WZP" firstAttribute="trailing" secondItem="QVP-XN-cLw" secondAttribute="trailing" constant="20" id="fLB-6j-I6Q"/>
+                            <constraint firstItem="nSJ-fi-WZP" firstAttribute="bottom" secondItem="QVP-XN-cLw" secondAttribute="bottom" constant="348" id="hd4-Fl-hI3"/>
+                            <constraint firstItem="LcE-Dn-nUf" firstAttribute="leading" secondItem="nSJ-fi-WZP" secondAttribute="leading" constant="20" id="pVJ-Lw-bPF"/>
+                            <constraint firstItem="QVP-XN-cLw" firstAttribute="leading" secondItem="nSJ-fi-WZP" secondAttribute="leading" constant="20" id="vME-8c-a0m"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" title="할 일 등록" id="BMj-OG-D1a"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="MX8-qW-eWu" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1950.7692307692307" y="-235.30805687203789"/>
+        </scene>
+        <!--할 일-->
+        <scene sceneID="IhQ-de-iGX">
+            <objects>
+                <viewController id="X4i-NH-2NO" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5F3-N2-Res">
+                        <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="할 일" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IEi-ll-HJa">
+                                <rect key="frame" x="16" y="123" width="358" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vU8-jf-pJ9">
+                                <rect key="frame" x="16" y="184" width="358" height="235"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="BQf-JJ-ZjB"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="할 일" id="Bsp-ak-odK"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="r1y-VF-PAX" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1950.7692307692307" y="448.57819905213267"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="MnU-up-0lj">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="ge9-Pg-6Dm" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="zd9-oQ-Ubv">
+                        <rect key="frame" x="0.0" y="44" width="390" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="Uph-xp-wFx"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="l4j-BC-7Df" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="121.73913043478262" y="94.419642857142847"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="photo.artframe" catalog="system" width="128" height="93"/>
+        <image name="plus" catalog="system" width="128" height="113"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8d2df20-1db1-49ed-91f1-f0ad6a5cf50c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/Assets.xcassets/car.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/Assets.xcassets/car.imageset/car.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/Assets.xcassets/flower.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/Assets.xcassets/flower.imageset/flower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/Assets.xcassets/necklace.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/Assets.xcassets/necklace.imageset/necklace.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/SecondViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ChristmasGift/ChristmasGift/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker/DateViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/DateTimePicker/DateTimePicker/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/AddViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Context.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/ContextViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/CustomTableViewCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/GoogleService-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/OthersViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/FiveMinutes/FiveMinutes/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch/lamp_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/ImageAndSwitch/ImageAndSwitch/lamp_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation/EditViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/Navigation/Navigation/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/PickerView/PickerView/images/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/TabBar/TabBar.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/TabBar/TabBar.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/TabBar/TabBar.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/TabBar/TabBar.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/TabBar/TabBar.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/TabBar/TabBar/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/TabBar/TabBar/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/TabBar/TabBar/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/TabBar/TabBar/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/TabBar/TabBar/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/TabBar/TabBar/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/TabBar/TabBar/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/TabBar/TabBar/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day13 - ios1/TabBar/TabBar/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia/Assets.xcassets/NullProfile.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia/Assets.xcassets/NullProfile.imageset/NullProfile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia/ContentView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia/GoogleService-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia/Preview Content/Preview Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia/SocialMediaApp.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SocialMedia/SocialMedia/View/LoginView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/Assets.xcassets/surfing1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/Assets.xcassets/surfing1.imageset/surfing1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/Assets.xcassets/surfing2.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/Assets.xcassets/surfing2.imageset/surfing2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/Assets.xcassets/surfing3.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/Assets.xcassets/surfing3.imageset/surfing3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/SpotTableViewCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/SpotViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/SpotsViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SurfingSpot/SurfingSpot/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo/CoreData/Persistence.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo/CoreData/SwiftUIMemo.xcdatamodeld/.xccurrentversion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo/CoreData/SwiftUIMemo.xcdatamodeld/SwiftUIMemo.xcdatamodel/contents" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo/Memory/Memo.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo/Memory/MemoStore.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo/Preview Content/Preview Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo/SwiftUIMemoApp.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo/View/ComposeView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo/View/DetailView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo/View/MainListView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo/SwiftUIMemo/View/MemoCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo2/SwiftUIMemo2.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo2/SwiftUIMemo2.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo2/SwiftUIMemo2.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo2/SwiftUIMemo2.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo2/SwiftUIMemo2.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo2/SwiftUIMemo2/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo2/SwiftUIMemo2/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo2/SwiftUIMemo2/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo2/SwiftUIMemo2/MainView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo2/SwiftUIMemo2/Preview Content/Preview Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo2/SwiftUIMemo2/SwiftUIMemo2App.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3/ComposeView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3/DetailView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3/MainView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3/Memo.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3/MemoCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3/MemoStore.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3/Persistence.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3/Preview Content/Preview Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3/SwiftUIMemo3.xcdatamodeld/.xccurrentversion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3/SwiftUIMemo3.xcdatamodeld/SwiftUIMemo3.xcdatamodel/contents" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day14 - ios2/SwiftUIMemo3/SwiftUIMemo3/SwiftUIMemo3App.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/1/HelloPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/1/HelloPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/1/HelloPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/1/HelloPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/2/HelloSwift.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/2/HelloSwift.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/2/HelloSwift.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/2/HelloSwift.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/3/HelloSwiftProject/HelloSwiftProject/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/3/HelloSwiftProject/HelloSwiftProject/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/3/HelloSwiftProject/HelloSwiftProject/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/3/HelloSwiftProject/HelloSwiftProject/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/4/HelloXcode/HelloXcode/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/Contact/Contact.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/Contact/Contact.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/Contact/Contact.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/Contact/Contact.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/Contact/Contact.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/Contact/Contact/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/Contact/Contact/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/Contact/Contact/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/Contact/Contact/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/Contact/Contact/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/Contact/Contact/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/Contact/Contact/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/Contact/Contact/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/Contact/Contact/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/UnitConverer/UnitConverer.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/UnitConverer/UnitConverer.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/UnitConverer/UnitConverer.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/UnitConverer/UnitConverer.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/UnitConverer/UnitConverer.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/UnitConverer/UnitConverer/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/UnitConverer/UnitConverer/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/UnitConverer/UnitConverer/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/UnitConverer/UnitConverer/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/UnitConverer/UnitConverer/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/UnitConverer/UnitConverer/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/UnitConverer/UnitConverer/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/UnitConverer/UnitConverer/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/UnitConverer/UnitConverer/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/bj/bjTest/bjTest.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/bj/bjTest/bjTest.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/bj/bjTest/bjTest.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/bj/bjTest/bjTest.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/bj/bjTest/bjTest.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day15 - swift1/bj/bjTest/bjTest/main.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/1. Conditional.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/1. Conditional.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/1. Conditional.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/1. Conditional.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/1. Conditional.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/1/HelloPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/1/HelloPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/1/HelloPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/1/HelloPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/2/HelloSwift.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/2/HelloSwift.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/2/HelloSwift.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/2/HelloSwift.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/3/HelloSwiftProject/HelloSwiftProject/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/3/HelloSwiftProject/HelloSwiftProject/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/3/HelloSwiftProject/HelloSwiftProject/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/3/HelloSwiftProject/HelloSwiftProject/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/4/HelloXcode/HelloXcode/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/Closure.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/Closure.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/Closure.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/Closure.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/MyPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/MyPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/MyPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/MyPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/MyPlayground.playground/timeline.xctimeline" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/MyPlayground.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/ShoppingList/ShoppingList.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/ShoppingList/ShoppingList.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/ShoppingList/ShoppingList.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/ShoppingList/ShoppingList.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/ShoppingList/ShoppingList.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/ShoppingList/ShoppingList/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/ShoppingList/ShoppingList/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/ShoppingList/ShoppingList/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/ShoppingList/ShoppingList/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/ShoppingList/ShoppingList/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/ShoppingList/ShoppingList/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/ShoppingList/ShoppingList/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/ShoppingList/ShoppingList/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day16 - swift2/ShoppingList/ShoppingList/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/1. Conditional.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/1. Conditional.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/1. Conditional.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/1. Conditional.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/1. Conditional.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/1/HelloPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/1/HelloPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/1/HelloPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/1/HelloPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/2/HelloSwift.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/2/HelloSwift.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/2/HelloSwift.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/2/HelloSwift.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/3/HelloSwiftProject/HelloSwiftProject/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/3/HelloSwiftProject/HelloSwiftProject/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/3/HelloSwiftProject/HelloSwiftProject/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/3/HelloSwiftProject/HelloSwiftProject/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/4/HelloXcode/HelloXcode/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/Closure.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/Closure.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/Closure.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/Closure.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/MyPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/MyPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/MyPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/MyPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/MyPlayground.playground/timeline.xctimeline" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day17 - swift3/MyPlayground.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/1. Conditional.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/1. Conditional.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/1. Conditional.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/1. Conditional.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/1. Conditional.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/1/HelloPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/1/HelloPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/1/HelloPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/1/HelloPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/2/HelloSwift.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/2/HelloSwift.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/2/HelloSwift.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/2/HelloSwift.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/3/HelloSwiftProject/HelloSwiftProject/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/3/HelloSwiftProject/HelloSwiftProject/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/3/HelloSwiftProject/HelloSwiftProject/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/3/HelloSwiftProject/HelloSwiftProject/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/4/HelloXcode/HelloXcode/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/burger0.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/burger0.imageset/burger0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/burger1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/burger1.imageset/burger1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/burger2.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/burger2.imageset/burger2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/burger3.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/burger3.imageset/burger3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/burger4.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/burger4.imageset/burger4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/burger5.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/burger5.imageset/burger5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/coke.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/coke.imageset/coke.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/defaultImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/defaultImage.imageset/defaultImage.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/dessert1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/dessert1.imageset/dessert1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/dessert2.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/dessert2.imageset/dessert2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/sider.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Assets.xcassets/sider.imageset/sider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/EventViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/Item.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/LocationViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/MenuCollectionViewCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/BurgerKing/BurgerKing/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/Closure.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/Closure.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/Closure.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/Closure.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/MyPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/MyPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/MyPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/MyPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/MyPlayground.playground/timeline.xctimeline" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18 - swift4/MyPlayground.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/1. Conditional.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/1. Conditional.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/1. Conditional.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/1. Conditional.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/1. Conditional.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/1/HelloPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/1/HelloPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/1/HelloPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/1/HelloPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/2/HelloSwift.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/2/HelloSwift.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/2/HelloSwift.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/2/HelloSwift.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/3/HelloSwiftProject/HelloSwiftProject/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/3/HelloSwiftProject/HelloSwiftProject/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/3/HelloSwiftProject/HelloSwiftProject/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/3/HelloSwiftProject/HelloSwiftProject/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/4/HelloXcode/HelloXcode/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/Closure.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/Closure.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/Closure.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/Closure.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/MyPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/MyPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/MyPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/MyPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/MyPlayground.playground/timeline.xctimeline" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19 - iosapp1/MyPlayground.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/1. Conditional.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/1. Conditional.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/1. Conditional.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/1. Conditional.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/1. Conditional.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/1/HelloPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/1/HelloPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/1/HelloPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/1/HelloPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/2/HelloSwift.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/2/HelloSwift.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/2/HelloSwift.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/2/HelloSwift.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/3/HelloSwiftProject/HelloSwiftProject/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/3/HelloSwiftProject/HelloSwiftProject/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/3/HelloSwiftProject/HelloSwiftProject/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/3/HelloSwiftProject/HelloSwiftProject/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/4/HelloXcode/HelloXcode/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/Closure.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/Closure.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/Closure.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/Closure.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/MyPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/MyPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/MyPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/MyPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/MyPlayground.playground/timeline.xctimeline" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day20 - iosapp2/MyPlayground.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/1. Conditional.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/1. Conditional.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/1. Conditional.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/1. Conditional.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/1. Conditional.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/1/HelloPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/1/HelloPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/1/HelloPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/1/HelloPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/2/HelloSwift.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/2/HelloSwift.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/2/HelloSwift.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/2/HelloSwift.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/3/HelloSwiftProject/HelloSwiftProject/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/3/HelloSwiftProject/HelloSwiftProject/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/3/HelloSwiftProject/HelloSwiftProject/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/3/HelloSwiftProject/HelloSwiftProject/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/4/HelloXcode/HelloXcode/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/Closure.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/Closure.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/Closure.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/Closure.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/MyPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/MyPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/MyPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/MyPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/MyPlayground.playground/timeline.xctimeline" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day21 - iosapp3/MyPlayground.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/1. Conditional.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/1. Conditional.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/1. Conditional.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/1. Conditional.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/1. Conditional.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/1/HelloPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/1/HelloPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/1/HelloPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/1/HelloPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/2/HelloSwift.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/2/HelloSwift.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/2/HelloSwift.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/2/HelloSwift.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/3/HelloSwiftProject/HelloSwiftProject/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/3/HelloSwiftProject/HelloSwiftProject/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/3/HelloSwiftProject/HelloSwiftProject/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/3/HelloSwiftProject/HelloSwiftProject/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/4/HelloXcode/HelloXcode/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/Closure.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/Closure.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/Closure.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/Closure.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/MyPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/MyPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/MyPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/MyPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/MyPlayground.playground/timeline.xctimeline" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day22 - iosapp4/MyPlayground.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/1. Conditional.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/1. Conditional.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/1. Conditional.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/1. Conditional.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/1. Conditional.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/1/HelloPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/1/HelloPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/1/HelloPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/1/HelloPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/2/HelloSwift.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/2/HelloSwift.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/2/HelloSwift.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/2/HelloSwift.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/3/HelloSwiftProject/HelloSwiftProject/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/3/HelloSwiftProject/HelloSwiftProject/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/3/HelloSwiftProject/HelloSwiftProject/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/3/HelloSwiftProject/HelloSwiftProject/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/4/HelloXcode/HelloXcode/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/Closure.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/Closure.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/Closure.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/Closure.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/MyPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/MyPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/MyPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/MyPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/MyPlayground.playground/timeline.xctimeline" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day23 - iosapp5/MyPlayground.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/1. Conditional.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/1. Conditional.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/1. Conditional.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/1. Conditional.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/1. Conditional.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/1/HelloPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/1/HelloPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/1/HelloPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/1/HelloPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/2/HelloSwift.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/2/HelloSwift.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/2/HelloSwift.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/2/HelloSwift.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/3/HelloSwiftProject/HelloSwiftProject.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/3/HelloSwiftProject/HelloSwiftProject/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/3/HelloSwiftProject/HelloSwiftProject/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/3/HelloSwiftProject/HelloSwiftProject/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/3/HelloSwiftProject/HelloSwiftProject/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/3/HelloSwiftProject/HelloSwiftProject/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/3/HelloSwiftProject/HelloSwiftProject/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode.xcodeproj/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/4/HelloXcode/HelloXcode/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/Closure.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/Closure.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/Closure.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/Closure.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/MyPlayground.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/MyPlayground.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/MyPlayground.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/MyPlayground.playground/playground.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/MyPlayground.playground/timeline.xctimeline" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day24 - iosapp6/MyPlayground.playground/xcuserdata/warrenjo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/.idea/appInsightsSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day13 - ios1/Calculator/Calculator.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../day13 - ios1/Calculator/Calculator.xcodeproj/project.xcworkspace/xcuserdata/warrenjo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day3 - kotlin1/1. Basic/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day3 - kotlin1/1. Basic/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/.idea/migrations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/.idea/migrations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/androidTest/java/com/example/datingapp/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/androidTest/java/com/example/datingapp/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/activities/ChatActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/activities/ChatActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/activities/FriendActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/activities/FriendActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/activities/IntroActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/activities/IntroActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/activities/LineActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/activities/LineActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/activities/LoginActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/activities/LoginActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/activities/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/activities/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/activities/NoticeActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/activities/NoticeActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/activities/SignUpActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/activities/SignUpActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/activities/UploadActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/activities/UploadActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/api/ApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/api/ApiService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/api/RetrofitInstance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/api/RetrofitInstance.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/fragments/ChatFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/fragments/ChatFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/fragments/HomeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/fragments/HomeFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/fragments/LineFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/fragments/LineFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/fragments/MyFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/fragments/MyFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/models/ChatRoom.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/models/ChatRoom.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/models/Line.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/models/Line.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/models/Message.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/models/Message.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/models/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/models/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/java/com/example/datingapp/repositories/ChatRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/java/com/example/datingapp/repositories/ChatRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/bg_received_message.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/bg_received_message.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/bg_sent_message.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/bg_sent_message.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/google.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/google.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/ic_bell.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/ic_bell.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/ic_chat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/ic_chat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/ic_forward.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/ic_forward.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/ic_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/ic_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/ic_line.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/ic_line.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/ic_my.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/ic_my.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/idol1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/idol1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/idol2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/idol2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/kakao.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/kakao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/naver.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/naver.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/oval_black.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/oval_black.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/rounded_corners_black.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/rounded_corners_black.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/rounded_corners_border.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/rounded_corners_border.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/rounded_corners_gray.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/rounded_corners_gray.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/rounded_corners_upper_white.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/rounded_corners_upper_white.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/rounded_corners_white.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/rounded_corners_white.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/drawable/user.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/drawable/user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/activity_chat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/activity_chat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/activity_friend.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/activity_friend.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/activity_intro.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/activity_intro.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/activity_line.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/activity_line.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/activity_notice.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/activity_notice.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/activity_sign_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/activity_sign_up.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/activity_upload.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/activity_upload.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/fragment_chat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/fragment_chat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/fragment_line.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/fragment_line.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/fragment_my.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/fragment_my.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/item_chat_room.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/item_chat_room.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/item_friend.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/item_friend.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/item_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/item_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/item_intro_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/item_intro_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/item_line.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/item_line.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/layout/item_message.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/layout/item_message.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/menu/bottom_nav_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/menu/bottom_nav_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-hdpi/ic_launcher_adaptive_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-hdpi/ic_launcher_adaptive_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-hdpi/ic_launcher_adaptive_fore.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-hdpi/ic_launcher_adaptive_fore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-hdpi/ic_launcher_round_adaptive_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-hdpi/ic_launcher_round_adaptive_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-hdpi/ic_launcher_round_adaptive_fore.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-hdpi/ic_launcher_round_adaptive_fore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-mdpi/ic_launcher_adaptive_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-mdpi/ic_launcher_adaptive_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-mdpi/ic_launcher_adaptive_fore.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-mdpi/ic_launcher_adaptive_fore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-mdpi/ic_launcher_round_adaptive_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-mdpi/ic_launcher_round_adaptive_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-mdpi/ic_launcher_round_adaptive_fore.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-mdpi/ic_launcher_round_adaptive_fore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xhdpi/ic_launcher_adaptive_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xhdpi/ic_launcher_adaptive_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xhdpi/ic_launcher_adaptive_fore.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xhdpi/ic_launcher_adaptive_fore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round_adaptive_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round_adaptive_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round_adaptive_fore.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round_adaptive_fore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_adaptive_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_adaptive_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_adaptive_fore.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_adaptive_fore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round_adaptive_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round_adaptive_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round_adaptive_fore.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round_adaptive_fore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round_adaptive_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round_adaptive_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round_adaptive_fore.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round_adaptive_fore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/xml/file_paths.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/xml/file_paths.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/main/res/xml/network_security_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/main/res/xml/network_security_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/app/src/test/java/com/example/datingapp/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/app/src/test/java/com/example/datingapp/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/DatingApp/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../day7 - androidapp1/DatingApp/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2nYVApzOXLvBpESMCdOj50exzYF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/warrenjo/NGVProjects/day4 - kotlin2/1. Class",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8d2df20-1db1-49ed-91f1-f0ad6a5cf50c" name="Changes" comment="" />
+      <created>1729149856261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729149856261</updated>
+      <workItem from="1729149857569" duration="3449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

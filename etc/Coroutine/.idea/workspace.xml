@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2257c7f8-dc23-417d-86af-a95c72da48a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/1. Class/.idea/1. Class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/1. Class/1. Class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/12. Abstract/Abstract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/13. Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/2. Constructor/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/2. Constructor/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/2. Constructor/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/2. Constructor/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/2. Constructor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/2. Constructor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/2. Constructor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/2. Constructor/2. Constructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/3. Inherit/3. Inherit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/4. Package/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/4. Package/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/4. Package/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/4. Package/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/4. Package/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/4. Package/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/4. Package/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/4. Package/4. Package.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/4. Package/src/com/keon/pkg1/NotClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/4. Package/src/com/keon/pkg1/TestClass1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/5. Module/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/5. Module/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/5. Module/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/5. Module/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/5. Module/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/5. Module/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/5. Module/5. Module.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/5. Module/TestModule/TestModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/5. Module/TestModule/src/com/keon/testmodule/pkg1/TestClass1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/6. Access/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/6. Access/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/6. Access/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/6. Access/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/6. Access/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/6. Access/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/6. Access/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/6. Access/6. Access.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/6. Access/Module/Module.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/6. Access/Module/src/com/keon/module/pkg2/TestFile3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/6. Access/src/TestFile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/6. Access/src/com/keon/pkg1/TestFile2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/App/Bread/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/App/Bread/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/App/Bread/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/App/Bread/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/App/Bread/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/App/Bread/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/App/Bread/app/src/main/java/com/example/bread/MoldActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/App/Bread/app/src/main/res/drawable/fish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/App/Bread/app/src/main/res/drawable/fish_mold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/App/Bread/app/src/main/res/drawable/flower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/App/Bread/app/src/main/res/drawable/flower_mold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/App/Bread/app/src/main/res/layout/activity_mold.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Abstract - Bungeoppang/Abstract - Bungeoppang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/androidTest/java/com/example/button/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/java/com/example/button/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/app/src/test/java/com/example/button/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/androidTest/java/com/example/button2/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/java/com/example/button2/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/app/src/test/java/com/example/button2/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Button2/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Car/Car.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Interface2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Interface2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Interface2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Interface2/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Interface2/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Interface2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Interface2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Interface2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Interface2/Interface2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day4 - kotlin2/Example/Interface2/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5 - kotlin3/1. Compainon/1. Compainon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5 - kotlin3/FunctionProgramming/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5 - kotlin3/FunctionProgramming/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5 - kotlin3/FunctionProgramming/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5 - kotlin3/FunctionProgramming/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5 - kotlin3/FunctionProgramming/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5 - kotlin3/FunctionProgramming/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5 - kotlin3/FunctionProgramming/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5 - kotlin3/FunctionProgramming/FunctionProgramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/androidTest/java/com/example/together/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/java/com/example/together/BurgerActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/java/com/example/together/CartActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/java/com/example/together/CategoryActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/java/com/example/together/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/drawable/beer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/drawable/bulgogi_burger.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/drawable/burger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/drawable/chicken_burger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/drawable/coffee.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/drawable/intro.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/drawable/minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/drawable/pizza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/drawable/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/drawable/shirimp_burger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/layout/activity_burger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/layout/activity_cart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/layout/activity_category.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/app/src/test/java/com/example/together/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/App/Together/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/Exception/Exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/List/List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/Map/Map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/Set/Set.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day6 - kotlin4/String/String.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day3 - kotlin1/app/Calulator2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day3 - kotlin1/app/Calulator2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day4 - kotlin2/1. Class/1. Class/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day4 - kotlin2/1. Class/1. Class/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day4 - kotlin2/1. Class/1. Class/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day4 - kotlin2/1. Class/1. Class/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day4 - kotlin2/1. Class/1. Class/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day4 - kotlin2/1. Class/1. Class/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day4 - kotlin2/1. Class/1. Class/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day4 - kotlin2/1. Class/1. Class/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day4 - kotlin2/1. Class/1. Class/1. Class.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day4 - kotlin2/1. Class/1. Class/src/Main.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2nc5E8m641q7716YScNifcToEQS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2257c7f8-dc23-417d-86af-a95c72da48a0" name="Changes" comment="" />
+      <created>1729259408565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729259408565</updated>
+      <workItem from="1729259409612" duration="944000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
